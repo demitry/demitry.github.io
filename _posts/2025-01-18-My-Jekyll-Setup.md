@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "My Jekill Setup"
+title:  "My Jekyll Setup"
 date:   2025-01-18 21:17:00 +0200
 categories: jekyll update
 ---
 
-# My Jekill Setup
+# My Jekyll Setup
 
 ## 1. Setup you Ruby Dev Env
 To setup you Ruby development environment on Windows:
