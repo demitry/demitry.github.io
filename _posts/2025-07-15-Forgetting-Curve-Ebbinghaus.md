@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hack the Forgetting Curve (Ebbinghaus)"
-date:   2025-07-16 14:17:00 +0200
+date:   2025-07-15 14:17:00 +0200
 categories: learning
 ---
 

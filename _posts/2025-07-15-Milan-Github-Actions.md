@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Telegraphic Summary on .NET Web API deploy with Github Actions"
-date:   2025-07-16 14:27:00 +0200
+date:   2025-07-15 14:27:00 +0200
 categories: Github Actions
 ---
 
